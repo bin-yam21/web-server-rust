@@ -1,0 +1,36 @@
+2025-12-26T19:34:50.703Z INFO  [rustowlc::core] start borrowck of DefId(0:8 ~ web_server_rust[a26c]::main)
+2025-12-26T19:34:50.707Z INFO  [rustowlc::core::analyze] facts of DefId(0:8 ~ web_server_rust[a26c]::main) prepared; start analyze of DefId(0:8 ~ web_server_rust[a26c]::main)
+2025-12-26T19:34:50.707Z INFO  [rustowlc::core] borrow checked: 1 / 6
+2025-12-26T19:34:50.707Z INFO  [rustowlc::core::analyze] start re-computing borrow check with dump: true
+2025-12-26T19:34:50.708Z INFO  [rustowlc::core] start borrowck of DefId(0:9 ~ web_server_rust[a26c]::handle_connection)
+2025-12-26T19:34:50.711Z INFO  [rustowlc::core::analyze] borrow check finished
+2025-12-26T19:34:50.715Z INFO  [rustowlc::core::analyze] facts of DefId(0:9 ~ web_server_rust[a26c]::handle_connection) prepared; start analyze of DefId(0:9 ~ web_server_rust[a26c]::handle_connection)
+2025-12-26T19:34:50.716Z INFO  [rustowlc::core] borrow checked: 2 / 6
+2025-12-26T19:34:50.716Z INFO  [rustowlc::core::analyze] start re-computing borrow check with dump: true
+2025-12-26T19:34:50.716Z INFO  [rustowlc::core] start borrowck of DefId(0:11 ~ web_server_rust[a26c]::handle_connection::{constant#1})
+2025-12-26T19:34:50.716Z INFO  [rustowlc::core::analyze] facts of DefId(0:11 ~ web_server_rust[a26c]::handle_connection::{constant#1}) prepared; start analyze of DefId(0:11 ~ web_server_rust[a26c]::handle_connection::{constant#1})
+2025-12-26T19:34:50.716Z INFO  [rustowlc::core] borrow checked: 3 / 6
+2025-12-26T19:34:50.716Z INFO  [rustowlc::core] start borrowck of DefId(0:10 ~ web_server_rust[a26c]::handle_connection::{constant#0})
+2025-12-26T19:34:50.717Z INFO  [rustowlc::core::analyze] facts of DefId(0:10 ~ web_server_rust[a26c]::handle_connection::{constant#0}) prepared; start analyze of DefId(0:10 ~ web_server_rust[a26c]::handle_connection::{constant#0})
+2025-12-26T19:34:50.717Z INFO  [rustowlc::core] borrow checked: 4 / 6
+2025-12-26T19:34:50.717Z INFO  [rustowlc::core] start borrowck of DefId(0:12 ~ web_server_rust[a26c]::handle_connection::{constant#2})
+2025-12-26T19:34:50.717Z INFO  [rustowlc::core::analyze] start re-computing borrow check with dump: true
+2025-12-26T19:34:50.717Z INFO  [rustowlc::core::analyze] borrow check finished
+2025-12-26T19:34:50.717Z INFO  [rustowlc::core::analyze] facts of DefId(0:12 ~ web_server_rust[a26c]::handle_connection::{constant#2}) prepared; start analyze of DefId(0:12 ~ web_server_rust[a26c]::handle_connection::{constant#2})
+2025-12-26T19:34:50.717Z INFO  [rustowlc::core::analyze] start re-computing borrow check with dump: true
+2025-12-26T19:34:50.717Z INFO  [rustowlc::core] borrow checked: 5 / 6
+2025-12-26T19:34:50.717Z INFO  [rustowlc::core::analyze] borrow check finished
+2025-12-26T19:34:50.717Z INFO  [rustowlc::core::analyze] start re-computing borrow check with dump: true
+2025-12-26T19:34:50.717Z INFO  [rustowlc::core] start borrowck of DefId(0:13 ~ web_server_rust[a26c]::main#1)
+2025-12-26T19:34:50.717Z INFO  [rustowlc::core::analyze] borrow check finished
+2025-12-26T19:34:50.717Z INFO  [rustowlc::core::analyze] facts of DefId(0:13 ~ web_server_rust[a26c]::main#1) prepared; start analyze of DefId(0:13 ~ web_server_rust[a26c]::main#1)
+2025-12-26T19:34:50.717Z INFO  [rustowlc::core] borrow checked: 6 / 6
+2025-12-26T19:34:50.717Z INFO  [rustowlc::core::analyze] start re-computing borrow check with dump: true
+2025-12-26T19:34:50.718Z INFO  [rustowlc::core::analyze] borrow check finished
+2025-12-26T19:34:50.724Z INFO  [rustowlc::core] analyzed one item of c:\Users\yeabt\Desktop\web-server-rust\src\main.rs
+2025-12-26T19:34:50.725Z INFO  [rustowlc::core] analyzed one item of c:\Users\yeabt\Desktop\web-server-rust\src\main.rs
+2025-12-26T19:34:50.725Z INFO  [rustowlc::core] analyzed one item of c:\Users\yeabt\Desktop\web-server-rust\src\main.rs
+2025-12-26T19:34:50.725Z INFO  [rustowlc::core] analyzed one item of c:\Users\yeabt\Desktop\web-server-rust\src\main.rs
+2025-12-26T19:34:50.725Z INFO  [rustowlc::core] analyzed one item of c:\Users\yeabt\Desktop\web-server-rust\src\main.rs
+2025-12-26T19:34:50.730Z INFO  [rustowlc::core::analyze] borrow check finished
+2025-12-26T19:34:50.743Z INFO  [rustowlc::core] analyzed one item of c:\Users\yeabt\Desktop\web-server-rust\src\main.rs
